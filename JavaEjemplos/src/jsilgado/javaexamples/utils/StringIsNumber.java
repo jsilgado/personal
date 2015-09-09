@@ -1,4 +1,4 @@
-package es.java.ejemplos;
+package jsilgado.javaexamples.utils;
 
 import java.util.regex.Pattern;
 

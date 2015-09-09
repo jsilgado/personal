@@ -1,4 +1,4 @@
-package es.java.ejemplos;
+package jsilgado.javaexamples.java7;
 
 import static java.util.Arrays.asList;
 

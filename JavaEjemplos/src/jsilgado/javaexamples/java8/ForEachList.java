@@ -1,4 +1,4 @@
-package es.java.java8;
+package jsilgado.javaexamples.java8;
 
 import java.util.ArrayList;
 import java.util.List;
